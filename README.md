@@ -1,2 +1,1 @@
-# NLRC-Mini-GTA
-NLRC Mini GTA
+# Mini-GTA
